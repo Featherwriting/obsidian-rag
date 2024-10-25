@@ -20,5 +20,14 @@
 		"obsidian": "latest",
 		"tslib": "2.4.0",
 		"typescript": "4.7.4"
+	},
+	"dependencies": {
+		"@langchain/community": "^0.3.7",
+		"@langchain/openai": "^0.3.11",
+		"chromadb": "^1.9.2",
+		"esrun": "^3.2.26",
+		"faiss-node": "^0.5.1",
+		"hnswlib-node": "^3.0.0",
+		"vectordb": "^0.1.19"
 	}
 }
